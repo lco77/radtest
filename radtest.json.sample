@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Basic Authentication Test",
+    "attributes": {
+      "User-Name": "testuser",
+      "User-Password": "password123",
+      "NAS-IP-Address": "192.168.1.10",
+      "Service-Type": "Login-User"
+    }
+  },
+  {
+    "name": "Admin Authentication Test",
+    "attributes": {
+      "User-Name": "admin",
+      "User-Password": "adminpass",
+      "NAS-IP-Address": "192.168.1.10",
+      "Service-Type": "Administrative-User"
+    }
+  }
+]
